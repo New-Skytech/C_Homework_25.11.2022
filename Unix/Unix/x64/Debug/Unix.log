@@ -1,0 +1,3 @@
+﻿  Unix.cpp
+C:\Users\n1249\source\repos\Unix\Unix\Unix.cpp(14,28): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Unix.vcxproj -> C:\Users\n1249\source\repos\Unix\x64\Debug\Unix.exe
